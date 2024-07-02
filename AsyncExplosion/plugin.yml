@@ -1,0 +1,5 @@
+name: AsyncExplosion
+main: Optimization\Core
+author: X
+version: 24.0.0
+api: 5.0.0
